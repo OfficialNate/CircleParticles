@@ -1,0 +1,10 @@
+name: Test
+main: me.Smartloser.YRater.YRater
+version: 2.0
+description: >
+             Effects Plugin.
+commands:
+  effect:
+    description: Showing ranklist! 
+  notes:
+    description: Showing ranklist!   

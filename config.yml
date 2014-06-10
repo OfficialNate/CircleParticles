@@ -1,0 +1,105 @@
+################################
+#       Made by: Matan         #
+#         ParticleEffects      #
+################################
+
+Effects:
+    HUGE_EXPLOSION:
+        Radius: 1
+        Amount: 10
+    LARGE_EXPLODE:
+        Radius: 0.75
+        Amount: 10
+    FIREWORKS_SPARK:
+        Radius: 0.75
+        Amount: 10
+    BUBBLE:
+        Radius: 0.75
+        Amount: 10
+    SUSPEND:
+        Radius: 0.75
+        Amount: 10
+    DEPTH_SUSPEND:
+        Radius: 0.75
+        Amount: 10
+    TOWN_AURA:
+        Radius: 0.75
+        Amount: 10
+    CRIT:
+        Radius: 0.75
+        Amount: 10
+    MAGIC_CRIT:
+        Radius: 0.75
+        Amount: 10
+    MOB_SPELL:
+        Radius: 0.75
+        Amount: 10
+    MOB_SPELL_AMBIENT:
+        Radius: 0.75
+        Amount: 10
+    SPELL:
+        Radius: 0.75
+        Amount: 10
+    INSTANT_SPELL:
+        Radius: 0.75
+        Amount: 10
+    WITCH_MAGIC:
+        Radius: 0.75
+        Amount: 10
+    NOTE:
+        Radius: 0.75
+        Amount: 10
+    PORTAL:
+        Radius: 0.75
+        Amount: 10
+    ENCHANTMENT_TABLE:
+        Radius: 0.75
+        Amount: 10
+    EXPLODE:
+        Radius: 0.75
+        Amount: 10
+    FLAME:
+        Radius: 0.75
+        Amount: 10
+    LAVA:
+        Radius: 0.75
+        Amount: 10
+    FOOTSTEP:
+        Radius: 0.75
+        Amount: 10
+    SPLASH:
+        Radius: 0.75
+        Amount: 10
+    LARGE_SMOKE:
+        Radius: 0.75
+        Amount: 10
+    CLOUD:
+        Radius: 0.75
+        Amount: 10
+    RED_DUST:
+        Radius: 0.75
+        Amount: 10
+    SNOWBALL_POOF:
+        Radius: 0.75
+        Amount: 10
+    DRIP_WATER:
+        Radius: 0.75
+        Amount: 10
+    DRIP_LAVA:
+        Radius: 0.75
+        Amount: 10
+    SNOW_SHOVEL:
+        Radius: 0.75
+        Amount: 10
+    SLIME:
+        Radius: 0.75
+        Amount: 10
+    HEART:
+        Radius: 0.75
+        Amount: 10
+    ANGRY_VILLAGER:
+        Radius: 0.75
+        Amount: 10
+    HAPPY_VILLAGER:
+        Radius: 0.75
+        Amount: 10
